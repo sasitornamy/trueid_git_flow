@@ -1,3 +1,4 @@
 Hello branch A
 Hi branch B
 add more content for develop branch
+Hi branch B
